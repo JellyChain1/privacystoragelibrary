@@ -11,8 +11,8 @@ The security policy applies to the Privacy Storage Library, including its functi
 If a vulnerability or security issue is identified in the Privacy Storage Library, follow these steps to report it:
 
 1. **Reporting Channels:** Submit a detailed report via:
-   - **Email:** JellyChain1@gmail.com
-   - **Issue Tracker:** https://github.com/
+   - **Email:** privacylibrary1@gmail.com
+   - **Issue Tracker:** https://github.com/JellyChain1/privacystoragelibrary/issues
 
 2. **Report Contents:** Include the following details in your report:
    - Description of the vulnerability or issue
