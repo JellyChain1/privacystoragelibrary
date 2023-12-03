@@ -44,7 +44,7 @@ Contributors are expected to:
 
 ### Contact Information
 
-For any queries, concerns, or contribution-related discussions, you can contact the team via email at: **JellyChain1@gmail.com**
+For any queries, concerns, or contribution-related discussions, you can contact the team via email at: **privacylibrary1@gmail.com**
 
 ### Conclusion
 
